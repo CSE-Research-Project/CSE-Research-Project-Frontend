@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "symbol": "ASPI",
+      "name": "Asia Pacific Wire & Cable Corporation PLC",
+      "sector": "Manufacturing"
+    },
+    {
+      "symbol": "DIMO",
+      "name": "Dimo Holdings Limited",
+      "sector": "Auto & Components"
+    },
+    {
+      "symbol": "DIALOG",
+      "name": "Dialog Axiata PLC",
+      "sector": "Telecommunications"
+    },
+    {
+      "symbol": "SLTL",
+      "name": "Sri Lanka Telecom Limited",
+      "sector": "Telecommunications"
+    },
+    {
+      "symbol": "COMB",
+      "name": "Colombo Commercial Warehousing Company PLC",
+      "sector": "Trading"
+    },
+    {
+      "symbol": "MTL",
+      "name": "Melstacorp Limited",
+      "sector": "Manufacturing"
+    },
+    {
+      "symbol": "CARSONS",
+      "name": "Carsons Cumberbatch PLC",
+      "sector": "Trading"
+    },
+    {
+      "symbol": "SOFTLOGIC",
+      "name": "Softlogic Holdings PLC",
+      "sector": "Retail"
+    }
+  ]
+}

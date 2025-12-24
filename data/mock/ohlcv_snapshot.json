@@ -1,0 +1,68 @@
+{
+  "ASPI": {
+    "symbol": "ASPI",
+    "name": "Asia Pacific Wire & Cable",
+    "open": 2420.0,
+    "high": 2465.5,
+    "low": 2410.0,
+    "close": 2450.0,
+    "prevClose": 2420.0,
+    "volume": 5234500,
+    "date": "2025-12-23"
+  },
+  "DIMO": {
+    "symbol": "DIMO",
+    "name": "Dimo Holdings",
+    "open": 3745.0,
+    "high": 3820.0,
+    "low": 3740.0,
+    "close": 3800.5,
+    "prevClose": 3705.0,
+    "volume": 3421000,
+    "date": "2025-12-23"
+  },
+  "DIALOG": {
+    "symbol": "DIALOG",
+    "name": "Dialog Axiata",
+    "open": 1915.5,
+    "high": 1925.0,
+    "low": 1880.0,
+    "close": 1890.25,
+    "prevClose": 1915.0,
+    "volume": 8956000,
+    "date": "2025-12-23"
+  },
+  "SLTL": {
+    "symbol": "SLTL",
+    "name": "Sri Lanka Telecom",
+    "open": 15.4,
+    "high": 15.65,
+    "low": 15.35,
+    "close": 15.5,
+    "prevClose": 15.42,
+    "volume": 45670000,
+    "date": "2025-12-23"
+  },
+  "COMB": {
+    "symbol": "COMB",
+    "name": "Colombo Commercial",
+    "open": 3240.0,
+    "high": 3260.0,
+    "low": 3200.0,
+    "close": 3210.0,
+    "prevClose": 3232.0,
+    "volume": 2145000,
+    "date": "2025-12-23"
+  },
+  "CARSONS": {
+    "symbol": "CARSONS",
+    "name": "Carsons Cumberbatch",
+    "open": 555.0,
+    "high": 575.5,
+    "low": 550.0,
+    "close": 565.75,
+    "prevClose": 555.5,
+    "volume": 1234500,
+    "date": "2025-12-23"
+  }
+}

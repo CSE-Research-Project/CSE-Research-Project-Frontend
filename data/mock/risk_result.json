@@ -1,0 +1,43 @@
+{
+  "symbol": "ASPI",
+  "asofDate": "2025-12-23",
+  "riskMetrics": {
+    "var95": 145.5,
+    "cvar": 185.75,
+    "beta": 1.12,
+    "volatility20d": 18.45,
+    "sharpeRatio": 0.85,
+    "maxDrawdown": -12.34
+  },
+  "drawdownData": [
+    { "day": 1, "drawdown": 0 },
+    { "day": 2, "drawdown": -1.2 },
+    { "day": 3, "drawdown": -3.4 },
+    { "day": 4, "drawdown": -2.1 },
+    { "day": 5, "drawdown": -5.2 },
+    { "day": 6, "drawdown": -4.8 },
+    { "day": 7, "drawdown": -6.1 },
+    { "day": 8, "drawdown": -8.3 },
+    { "day": 9, "drawdown": -10.2 },
+    { "day": 10, "drawdown": -12.34 }
+  ],
+  "volatilityData": [
+    { "day": 1, "volatility": 16.2 },
+    { "day": 2, "volatility": 16.8 },
+    { "day": 3, "volatility": 17.3 },
+    { "day": 4, "volatility": 17.9 },
+    { "day": 5, "volatility": 18.1 },
+    { "day": 6, "volatility": 18.4 },
+    { "day": 7, "volatility": 18.6 },
+    { "day": 8, "volatility": 18.5 },
+    { "day": 9, "volatility": 18.45 },
+    { "day": 10, "volatility": 18.45 }
+  ],
+  "returnsData": [
+    { "range": "-10 to -5%", "count": 2 },
+    { "range": "-5 to 0%", "count": 4 },
+    { "range": "0 to 5%", "count": 6 },
+    { "range": "5 to 10%", "count": 3 },
+    { "range": "10 to 15%", "count": 1 }
+  ]
+}

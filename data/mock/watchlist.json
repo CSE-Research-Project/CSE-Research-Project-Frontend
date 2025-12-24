@@ -1,0 +1,58 @@
+{
+  "watchlist": [
+    {
+      "symbol": "ASPI",
+      "name": "Asia Pacific Wire & Cable",
+      "lastClose": 2450.0,
+      "volume": 5234500,
+      "return1d": 1.25,
+      "return5d": -2.15,
+      "riskLevel": "medium"
+    },
+    {
+      "symbol": "DIMO",
+      "name": "Dimo Holdings",
+      "lastClose": 3800.5,
+      "volume": 3421000,
+      "return1d": 2.5,
+      "return5d": 4.75,
+      "riskLevel": "low"
+    },
+    {
+      "symbol": "DIALOG",
+      "name": "Dialog Axiata",
+      "lastClose": 1890.25,
+      "volume": 8956000,
+      "return1d": -1.3,
+      "return5d": -3.4,
+      "riskLevel": "medium"
+    },
+    {
+      "symbol": "SLTL",
+      "name": "Sri Lanka Telecom",
+      "lastClose": 15.5,
+      "volume": 45670000,
+      "return1d": 0.5,
+      "return5d": 1.2,
+      "riskLevel": "high"
+    },
+    {
+      "symbol": "COMB",
+      "name": "Colombo Commercial",
+      "lastClose": 3210.0,
+      "volume": 2145000,
+      "return1d": -0.75,
+      "return5d": 0.45,
+      "riskLevel": "high"
+    },
+    {
+      "symbol": "CARSONS",
+      "name": "Carsons Cumberbatch",
+      "lastClose": 565.75,
+      "volume": 1234500,
+      "return1d": 1.8,
+      "return5d": 2.1,
+      "riskLevel": "low"
+    }
+  ]
+}

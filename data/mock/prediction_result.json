@@ -1,0 +1,34 @@
+{
+  "symbol": "ASPI",
+  "asofDate": "2025-12-23",
+  "openToday": 2420.0,
+  "predOpenTplus5": 2510.0,
+  "confidence": "high",
+  "forecastPoints": [
+    { "day": 1, "price": 2438.5 },
+    { "day": 2, "price": 2450.25 },
+    { "day": 3, "price": 2468.75 },
+    { "day": 4, "price": 2485.0 },
+    { "day": 5, "price": 2510.0 },
+    { "day": 6, "price": 2515.25 },
+    { "day": 7, "price": 2520.0 }
+  ],
+  "baselinePoints": [
+    { "day": 1, "price": 2420.0 },
+    { "day": 2, "price": 2425.0 },
+    { "day": 3, "price": 2425.0 },
+    { "day": 4, "price": 2425.0 },
+    { "day": 5, "price": 2425.0 },
+    { "day": 6, "price": 2425.0 },
+    { "day": 7, "price": 2425.0 }
+  ],
+  "deltaPoints": [
+    { "day": 1, "deltaPrice": 18.5, "deltaPct": 0.76 },
+    { "day": 2, "deltaPrice": 30.25, "deltaPct": 1.25 },
+    { "day": 3, "deltaPrice": 48.75, "deltaPct": 2.01 },
+    { "day": 4, "deltaPrice": 65.0, "deltaPct": 2.68 },
+    { "day": 5, "deltaPrice": 90.0, "deltaPct": 3.71 },
+    { "day": 6, "deltaPrice": 95.25, "deltaPct": 3.93 },
+    { "day": 7, "deltaPrice": 100.0, "deltaPct": 4.12 }
+  ]
+}
