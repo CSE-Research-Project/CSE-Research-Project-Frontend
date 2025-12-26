@@ -1,0 +1,58 @@
+{
+  "news": [
+    {
+      "id": "news_1",
+      "title": "CSE Index Reaches All-Time High",
+      "source": "CSE Official",
+      "publishedDate": "2025-12-26",
+      "summary": "The Colombo Stock Exchange Index surged to record levels today, driven by strong banking and energy sector performance.",
+      "tags": ["CSE", "Economy"],
+      "content": "The Colombo Stock Exchange Index has reached unprecedented heights today, driven by robust performance across multiple sectors. Banking institutions led the charge with strong earnings reports, while the energy sector benefited from improved global market conditions. Analysts attribute this growth to increased foreign investor interest and positive macroeconomic indicators. Several blue-chip companies reported record quarterly earnings, contributing to market sentiment. Experts recommend investors to maintain a diversified portfolio while keeping an eye on global market trends."
+    },
+    {
+      "id": "news_2",
+      "title": "Tech Sector Booms as Digital Transformation Accelerates",
+      "source": "Investment Weekly",
+      "publishedDate": "2025-12-25",
+      "summary": "Technology companies listed on CSE show strong growth as businesses accelerate digital transformation initiatives.",
+      "tags": ["Company", "Technology"],
+      "content": "The technology sector on the Colombo Stock Exchange is experiencing significant growth as enterprises across industries embrace digital transformation. Companies providing cloud services, cybersecurity, and software development solutions are seeing increased demand. Market analysts predict continued growth in this sector as digital adoption becomes critical for business competitiveness. Several IT companies have announced expansion plans and increased hiring. Investors are showing strong interest in tech stocks, with venture capital inflows reaching record levels."
+    },
+    {
+      "id": "news_3",
+      "title": "Global Markets Rally on Positive Economic Data",
+      "source": "Global Market News",
+      "publishedDate": "2025-12-24",
+      "summary": "International stock markets surge following release of positive economic indicators from major economies.",
+      "tags": ["Global Markets", "Economy"],
+      "content": "Global financial markets are experiencing a significant rally following the release of robust economic data from major developed nations. Central banks are signaling a more optimistic outlook for economic growth. Emerging markets, including Sri Lanka, are benefiting from increased risk appetite among international investors. Trade negotiations are progressing positively, reducing uncertainty in global commerce. Financial experts advise investors to take advantage of current market conditions while maintaining appropriate risk management strategies."
+    },
+    {
+      "id": "news_4",
+      "title": "Banking Sector Reports Strong Q3 Results",
+      "source": "Financial Times",
+      "publishedDate": "2025-12-23",
+      "summary": "Major banks announce excellent quarterly results with increased profitability and expanded lending portfolios.",
+      "tags": ["Company", "CSE"],
+      "content": "The banking sector has delivered impressive results for the third quarter, with major institutions reporting increased net income and expanded customer bases. Loan portfolios have grown steadily, and deposits continue to rise, indicating strong customer confidence. Asset quality metrics remain healthy despite challenging market conditions. Banks are expanding digital banking services to capture growing demand for mobile and online banking. Dividend announcements from several major banks have boosted investor confidence in the sector."
+    },
+    {
+      "id": "news_5",
+      "title": "Energy Sector Benefits from Green Initiatives",
+      "source": "Energy Sector Report",
+      "publishedDate": "2025-12-22",
+      "summary": "Renewable energy companies gain momentum as government pushes for sustainable energy transition.",
+      "tags": ["Company", "Sustainability"],
+      "content": "The energy sector is undergoing a significant transformation with increased focus on renewable energy sources. Government policies supporting green energy adoption are creating new opportunities for companies in solar, wind, and hydroelectric power generation. Traditional energy companies are also investing in renewable technologies to adapt to market changes. International climate agreements are accelerating the transition toward sustainable energy. Investors are showing strong interest in companies positioned to benefit from this green energy revolution."
+    },
+    {
+      "id": "news_6",
+      "title": "Real Estate Market Shows Signs of Recovery",
+      "source": "Property Market Analysis",
+      "publishedDate": "2025-12-21",
+      "summary": "Real estate developers report increased demand as economic confidence strengthens and interest rates stabilize.",
+      "tags": ["Company", "Economy"],
+      "content": "The real estate market is showing signs of robust recovery with increased sales volumes and improving property prices. Residential and commercial projects are attracting significant investor interest. Banks are extending more favorable financing terms, supporting the sector's growth. Infrastructure development projects are proceeding on schedule, creating opportunities for construction and related companies. Market analysts expect continued positive momentum in the real estate sector as economic confidence improves."
+    }
+  ]
+}

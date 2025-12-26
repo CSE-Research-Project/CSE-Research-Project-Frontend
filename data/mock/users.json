@@ -1,0 +1,13 @@
+{
+  "mockUsers": [
+    {
+      "id": "user_1",
+      "name": "John Investor",
+      "email": "john@example.com",
+      "password": "password123",
+      "displayName": "John Investor",
+      "bio": "Passionate about CSE investments",
+      "joinedDate": "2024-01-15"
+    }
+  ]
+}
