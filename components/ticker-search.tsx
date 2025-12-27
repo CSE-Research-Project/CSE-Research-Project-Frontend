@@ -19,10 +19,19 @@ export function TickerSearch({ onSelect, placeholder = "Search stocks..." }: Tic
   const [loading, setLoading] = useState(false)
   const [query, setQuery] = useState("")
 
+  // Example companies to show when search is empty
+  const exampleCompanies: Company[] = [
+    { symbol: "DIALOG", name: "Dialog Axiata PLC", sector: "Telecommunications" },
+    { symbol: "DIMO", name: "Dimo Holdings Limited", sector: "Auto & Components" },
+    { symbol: "ASPI", name: "Asia Pacific Wire & Cable Corporation PLC", sector: "Manufacturing" },
+    { symbol: "SLTL", name: "Sri Lanka Telecom Limited", sector: "Telecommunications" },
+    { symbol: "SOFTLOGIC", name: "Softlogic Holdings PLC", sector: "Retail" }
+  ]
+
   useEffect(() => {
     const handleSearch = async () => {
       if (query.length === 0) {
-        setCompanies([])
+        setCompanies(exampleCompanies)
         return
       }
       setLoading(true)
@@ -48,7 +57,7 @@ export function TickerSearch({ onSelect, placeholder = "Search stocks..." }: Tic
           <ChevronsUpDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
         </Button>
       </PopoverTrigger>
-      <PopoverContent className="w-full p-0" align="start">
+      <PopoverContent className="p-0" align="start" style={{ width: 'var(--radix-popover-trigger-width)' }}>
         <Command>
           <Input
             placeholder={placeholder}
@@ -60,7 +69,7 @@ export function TickerSearch({ onSelect, placeholder = "Search stocks..." }: Tic
             {loading && <CommandEmpty>Searching...</CommandEmpty>}
             {!loading && companies.length === 0 && query && <CommandEmpty>No stocks found.</CommandEmpty>}
             {companies.length > 0 && (
-              <CommandGroup>
+              <CommandGroup heading={query.length === 0 ? "Popular Companies" : undefined}>
                 {companies.map((company) => (
                   <CommandItem
                     key={company.symbol}
